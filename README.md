@@ -1,3 +1,3 @@
 Atividade: Git CI/CD</b>
-Aluno: Remam Tonon de Oliveira
+Aluno: Renan Tonon de Oliveira
 RA: 22188153-2
